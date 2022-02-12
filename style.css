@@ -1,0 +1,43 @@
+h1,h2,h3,h4,h5,h6,p{
+    font-family:  "Work Sans" sans-serif;
+}
+.banner-section{
+    background: url(https://i.ibb.co/1Qks1Jb/asset-8.jpg) no-repeat center center;
+    padding: 200px 0;
+}
+.content-caption h4{
+    
+}
+.content-caption h2{
+    
+}
+/* phone-man */
+.phone-man{
+    background: #f7f9ff;
+}
+.contant-left{
+    margin-top: 115px;
+}
+.contant-left h2{
+    font-size: 41px;
+    margin-bottom: 45px;
+}
+.contant-left p{
+    font-size: 25px;
+}
+.pic-right img{
+    max-width: 100%;
+}
+/* active-life */
+.content-up{}
+.content-up h2{
+    font-size: 57px;
+}
+.content-up p{
+    font-size: 30px;
+}
+/* look-at */
+.imege-item{}
+.imege-item a img{
+    max-width: 100%;
+}
